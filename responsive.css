@@ -1,0 +1,666 @@
+@media (min-width: 990px) and (max-width: 1205px) {
+  #pricing-button {
+    font-size: 14px;
+    padding: 10px 20px;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 990px) {
+  #pricing-button {
+    font-size: 13px;
+    padding: 15px 30px;
+    font-size: 17px;
+    width: 90%;
+  }
+
+  .our-subcriber {
+    width: 60%;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1200px) {
+  .respon-menu-btn {
+    display: block;
+    border: none;
+  }
+  .navbar-list-wrraper {
+    display: none;
+  }
+
+  .navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+  .navbar-nav {
+    margin: 0 114px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 800px) {
+  .respon-padding {
+    padding: 75px 0px;
+  }
+
+  .services-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .left-content {
+    padding: 0px;
+    margin-top: 15%;
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+
+  .right-content {
+    display: block;
+    width: 100%;
+  }
+
+  .first-content {
+    height: auto;
+  }
+
+  .pricing-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .pricing-mid-heading {
+    font-size: 12px;
+  }
+
+  .pricing-main-heading {
+    font-size: 25px;
+  }
+
+  #pricing-button {
+    font-size: 17px;
+    width: 90%;
+  }
+
+  .funfacts-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .funfacts {
+    height: 800px;
+  }
+
+  .funfacts-text {
+    width: 40%;
+  }
+
+  .main-funfacts {
+    height: 800px;
+  }
+
+  .customer-head-division {
+    width: 70%;
+  }
+
+  .customer-says {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .customer-says-part {
+    width: 70%;
+    margin: 40px;
+  }
+
+  .button-view {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .fa-btn {
+    width: 100%;
+  }
+
+  .works-division {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .works-part {
+    width: 80%;
+  }
+
+  .works-img-png {
+    margin-bottom: 20px;
+  }
+
+  .works-description {
+    margin-left: 0;
+  }
+
+  .our-subcriber {
+    width: 70%;
+  }
+
+  .blog-topic {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+  .blog-topic-dep {
+    width: 70%;
+  }
+
+  .blog-header {
+    max-width: 55%;
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 500px) {
+  .blog-topic-dep {
+    width: 75%;
+  }
+
+  .blog-header {
+    max-width: 70%;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .blog-topic-dep {
+    width: 85%;
+  }
+
+  .img-blog {
+    height: 300px;
+  }
+
+  .blog-header {
+    max-width: 85%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 775px) {
+  .navbar-nav {
+    margin: 0 5px;
+  }
+
+  .left-content > p {
+    margin: 0 20px 48px;
+  }
+
+  .customer-min-heading {
+    font-size: 15px;
+  }
+
+  .customer-main-heading {
+    font-size: 28px;
+  }
+
+  .customer-head-description {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px) {
+  .customer-head-division {
+    width: 91%;
+    margin: 0 auto;
+  }
+  
+
+  .customer-min-heading {
+    font-size: 12px;
+  }
+
+  .customer-description {
+    font-size: 13px;
+  }
+
+  .customer-name {
+    font-size: 14px;
+  }
+
+  .customer-position {
+    font-size: 11px;
+  }
+
+  .customer-says-part {
+    margin: 35px 0;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1099px) {
+  .left-content {
+    padding: 0 42px 0 105px;
+  }
+
+  .left-content > h1 {
+    font-size: 40px;
+  }
+
+  .domain-main-headding {
+    font-size: 28px;
+  }
+}
+
+@media screen and (min-width: 900px) and (max-width: 999px) {
+  .navbar-nav {
+    margin: 0 50px;
+  }
+
+  .left-content {
+    padding: 0 40px 0 102px;
+  }
+
+  .left-content > h1 {
+    font-size: 38px;
+  }
+
+  .domain-main-headding {
+    font-size: 28px;
+  }
+}
+
+@media screen and (min-width: 800px) and (max-width: 899px) {
+  .navbar-nav {
+    margin: 0 30px;
+  }
+
+  
+  .left-content > h1 {
+    font-size: 35px;
+  }
+
+  .domain-main-headding {
+    font-size: 28px;
+  }
+}
+
+@media screen and (min-width: 775px) and (max-width: 800px) {
+  .first-content {
+    display: block;
+    height: auto;
+  }
+
+  .right-content img {
+    position: inherit;
+    bottom: -70px;
+  }
+
+  .left-content > h1 {
+    font-size: 34px;
+  }
+
+  .domain-main-headding {
+    font-size: 27px;
+  }
+
+  .container-division {
+    width: 80%;
+    margin-bottom: 40px;
+  }
+
+  .pricing-division {
+    width: 60%;
+  }
+
+  .btn-services {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 775px) {
+  .first-content {
+    display: block;
+    height: auto;
+  }
+
+  .right-content img {
+    position: inherit;
+    bottom: -60px;
+  }
+
+  .left-content > h1 {
+    font-size: 34px;
+  }
+
+  .domain-main-headding {
+    font-size: 27px;
+  }
+
+  .container-division {
+    width: 80%;
+    margin-bottom: 40px;
+  }
+
+  .btn-services {
+    width: 75%;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 991px) {
+  .pricing-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .pricing-division {
+    width: 30%;
+  }
+
+  .funfacts-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .funfacts-text {
+    width: 35%;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 600px) {
+  .first-content {
+    display: block;
+    height: auto;
+  }
+
+  .right-content img {
+    position: inherit;
+    bottom: -50px;
+  }
+
+  .left-content > h1 {
+    font-size: 34px;
+  }
+
+  .domain-main-headding {
+    font-size: 27px;
+  }
+
+  .container-division {
+    width: 78%;
+    margin-bottom: 40px;
+  }
+
+  .pricing-division {
+    width: 70%;
+  }
+
+  .btn-services {
+    width: 80%;
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 500px) {
+  .first-content {
+    display: block;
+    height: auto;
+  }
+
+  .right-content img {
+    position: inherit;
+    bottom: -40px;
+  }
+
+  .left-content > h1 {
+    font-size: 34px;
+  }
+
+  .domain-main-headding {
+    font-size: 27px;
+  }
+
+  .container-division {
+    width: 78%;
+    margin-bottom: 40px;
+  }
+
+  .pricing-division {
+    width: 73%;
+  }
+
+  .btn-services {
+    width: 80%;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .email-address {
+    font-size: 13px;
+  }
+
+  
+
+  .funfacts-main-heading {
+    font-size: 35px !important;
+  }
+
+  .right-content img {
+    position: inherit;
+    bottom: -40px;
+  }
+}
+
+@media screen and (min-width: 200px) and (max-width: 300px) {
+  .email-address {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 200px) and (max-width: 400px) {
+  .first-content {
+    display: block;
+    height: 685px;
+  }
+
+  .left-content > h1 {
+    font-size: 34px;
+  }
+
+  .domain-main-headding {
+    font-size: 27px;
+  }
+
+  .container-division {
+    width: 78%;
+    margin-bottom: 40px;
+  }
+
+  .pricing-division {
+    width: 75%;
+    margin: 15px 0;
+  }
+
+  .funfacts-heading {
+    margin: 0 20px;
+  }
+  .btn-services {
+    width: 80%;
+  }
+}
+
+@media screen and (min-width: 918px) and (max-width: 1122px) {
+  .footer-disc {
+    width: 22%;
+    margin: 0 10px;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 918px) {
+  .ft-footer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .hd-head {
+    margin-top: 60px;
+  }
+
+  .social-link {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .raptor-disc {
+    margin-bottom: 50px;
+  }
+
+  .fa-location-dot {
+    color: #fff;
+    opacity: 1;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 918px) {
+  .footer-disc {
+    width: 80%;
+    margin: 0 65px;
+  }
+}
+
+
+@media screen and (min-width: 300px) and (max-width: 600px) {
+  .footer-disc {
+    width: 91%;
+    margin: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .footer-line {
+    width: 100%;
+    padding: 0 15px;
+  }
+}
+
+@media screen and (min-width: 1180px) and (max-width: 1247px) {
+  .domain-form {
+    width: 40%;
+  }
+
+  .domain-name {
+    width: 55%;
+  }
+}
+
+@media screen and (min-width: 1100px) and (max-width: 1180px) {
+  .domain-form {
+    width: 40%;
+  }
+
+  .domain-name {
+    width: 55%;
+  }
+
+  .search-domain {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1100px) {
+  .domain-form {
+    width: 40%;
+  }
+
+  .domain-name {
+    width: 55%;
+    font-size: 16px;
+  }
+
+  .search-domain {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 875px) and (max-width: 1000px) {
+  .domain-form {
+    width: 40%;
+  }
+
+  .domain-name {
+    width: 55%;
+    font-size: 15px;
+    padding: 0px 24px 0px 10px;
+  }
+
+  .search-domain {
+    font-size: 13px;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 875px) {
+  .domain-form {
+    width: 60%;
+    height: 100%;
+    padding: 16px;
+  }
+
+  .domain-name {
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    padding: 6px 24px;
+  }
+
+  .search-domain {
+    width: 100%;
+    height: 50px;
+    font-size: 15px;
+    padding: 6px 64px;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 500px) {
+  .domain-form {
+    width: 75%;
+    height: 100%;
+  }
+
+  .domain-name {
+    width: 100%;
+    height: 50px;
+    font-size: 15px;
+    padding: 6px 24px;
+  }
+
+  .search-domain {
+    width: 100%;
+    height: 50px;
+    font-size: 15px;
+    padding: 6px 64px;
+  }
+}
